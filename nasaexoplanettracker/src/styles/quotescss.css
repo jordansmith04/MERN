@@ -1,0 +1,14 @@
+
+.container {
+    text-align: center;
+    color: white;
+    background: url("https://image.shutterstock.com/image-photo/foggy-forest-background-autumn-filtered-260nw-338031887.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.contain {
+    padding: 10em;
+}
